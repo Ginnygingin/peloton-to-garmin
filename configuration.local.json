@@ -18,11 +18,10 @@
     "Email": "",
     "Password": "",
     "NumWorkoutsToDownload": 1,
-    "ExcludeWorkoutTypes":  [Running]
-    "ExcludeWorkoutTypes":  [Running Workout]
-    "ExcludeWorkoutTypes":  [Outdoor]
-
-  },
+    EXCLUDEWORKOUTTYPES__0="running"
+    EXCLUDEWORKOUTTYPES__1="Running Workout"
+    EXCLUDEWORKOUTTYPES__2="Outdoor"
+  
 
   "Garmin": {
     "Email": "",
