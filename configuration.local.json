@@ -18,9 +18,9 @@
     "Email": "",
     "Password": "",
     "NumWorkoutsToDownload": 1,
-    "ExcludeWorkoutTypes":  "Running"
-    "ExcludeWorkoutTypes":  "Running Workout"
-    "ExcludeWorkoutTypes":  "Outdoor"
+    "ExcludeWorkoutTypes":  [Running]
+    "ExcludeWorkoutTypes":  [Running Workout]
+    "ExcludeWorkoutTypes":  [Outdoor]
 
   },
 
