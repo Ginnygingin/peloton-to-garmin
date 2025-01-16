@@ -19,9 +19,8 @@
     "Password": "",
     "NumWorkoutsToDownload": 1,
     "ExcludeWorkoutTypes":  "Running"
-    P2G_PELOTON__EXCLUDEWORKOUTTYPES__0="running"
-    P2G_PELOTON__EXCLUDEWORKOUTTYPES__1="Running Workout"
-    P2G_PELOTON__EXCLUDEWORKOUTTYPES__2="Outdoor"
+    "ExcludeWorkoutTypes":  "Running Workout"
+    "ExcludeWorkoutTypes":  "Outdoor"
 
   },
 
