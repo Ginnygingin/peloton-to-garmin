@@ -8,7 +8,7 @@ on:
     inputs:
       workoutsToDownload:
         type: number
-        default: "5"
+        default: "1"
       saveLocalCopy:
         type: boolean
         default: false
@@ -71,6 +71,7 @@ jobs:
         P2G_PELOTON__PASSWORD: ${{ secrets.P2G_PELOTON__PASSWORD }}
         P2G_GARMIN__EMAIL: ${{ secrets.P2G_GARMIN__EMAIL }}
         P2G_GARMIN__PASSWORD: ${{ secrets.P2G_GARMIN__PASSWORD }}
+        "ExcludeWorkoutTypes": [ "OutdoorRunning" ]
         TZ: America/Chicago
 
     - name: archive files
