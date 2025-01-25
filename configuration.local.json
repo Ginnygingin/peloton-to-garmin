@@ -18,7 +18,7 @@
     "Email": "",
     "Password": "",
     "NumWorkoutsToDownload": 1,
-    "ExcludeWorkoutTypes": OutdoorRunning
+    "ExcludeWorkoutTypes": [OutdoorRunning]
   },
 
   "Garmin": {
